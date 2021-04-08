@@ -1,1 +1,4 @@
-@import “./fishes.css”
+@import "styles/fishes.css";
+@import "styles/quotes.css";
+@import "styles/locations.css";
+@import "styles/tips.css";
