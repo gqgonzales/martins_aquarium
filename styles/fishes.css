@@ -1,25 +1,28 @@
-.fishes {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
+.fish__container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  border: tomato 2px solid;
+  padding: 1rem;
+  margin: 1rem;
 }
 
 .fish {
-    margin: 1rem;
-    border: tomato 2px solid;
-    flex-wrap: wrap;
+  margin: 1rem;
+  border: tomato 2px solid;
+  flex-wrap: wrap;
 }
 
 .fish__name {
-    text-align: center;
-    color: yellow;
-    background-color: teal;
-    padding: 0.5rem;
+  text-align: center;
+  color: yellow;
+  background-color: teal;
+  padding: 0.5rem;
 }
 
 .fish__image {
-max-width: 10rem;
-height: auto;
+  max-width: 10rem;
+  height: auto;
 }
 
 /* .fish__species {

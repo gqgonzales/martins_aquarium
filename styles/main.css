@@ -6,6 +6,7 @@
 body {
   font-family: "Comfortaa", cursive;
   background-color: turquoise;
+  margin: 0;
 }
 
 body > h3 {
@@ -21,15 +22,14 @@ body > h3 {
 
 .flex-container-left {
   display: flex;
+  flex-direction: column;
   flex: 3;
 }
 
 .tips {
   display: flex;
   flex: 1;
+  background-color: yellow;
+  margin: 1rem;
+  padding: 1rem;
 }
-
-/* .fish__image {
-    max-width: 10rem;
-    height: auto;
-    } */

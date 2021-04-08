@@ -1,3 +1,9 @@
+.locations {
+  border: yellow 2px dashed;
+  margin: 1rem;
+  padding: 1rem;
+}
+
 .locations > h3 {
   color: yellow;
   background-color: teal;
