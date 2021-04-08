@@ -1,8 +1,35 @@
-@import "styles/fishes.css";
-@import "styles/quotes.css";
-@import "styles/locations.css";
-@import "styles/tips.css";
+@import "../styles/fishes.css";
+@import "../styles/quotes.css";
+@import "../styles/locations.css";
+@import "../styles/tips.css";
 
 body {
-    font-family: 'Comfortaa', cursive;
+  font-family: "Comfortaa", cursive;
+  background-color: turquoise;
 }
+
+body > h3 {
+  color: yellow;
+}
+
+.header {
+    text-align: center;
+    color: yellow;
+    background-color: teal;
+    padding: 0.5rem;
+}
+
+.flex-container-left {
+  display: flex;
+  flex: 3;
+}
+
+.tips {
+  display: flex;
+  flex: 1;
+}
+
+/* .fish__image {
+    max-width: 10rem;
+    height: auto;
+    } */

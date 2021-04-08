@@ -1,0 +1,15 @@
+.tips {
+    background-color: yellow;
+    margin: 2rem;
+    padding: 1rem;
+}
+
+.tips > h3 {
+    color: yellow;
+    background-color: teal;
+    padding: 0.5rem;
+}
+
+.tips__list {
+
+}
