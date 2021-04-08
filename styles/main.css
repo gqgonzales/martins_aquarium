@@ -2,3 +2,7 @@
 @import "styles/quotes.css";
 @import "styles/locations.css";
 @import "styles/tips.css";
+
+body {
+    font-family: 'Comfortaa', cursive;
+}
