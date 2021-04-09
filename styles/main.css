@@ -30,7 +30,7 @@ body {
   flex-direction: column;
 }
 
-h3 {
+.section__header {
   text-align: center;
   color: yellow;
   background-color: teal;

@@ -1,7 +1,7 @@
 .fish__container {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: space-evenly;
   border: tomato 2px solid;
   padding: 1rem;
   margin: 1rem;
@@ -9,8 +9,9 @@
 
 .fish {
   margin: 1rem;
-  border: tomato 2px solid;
+  border: purple 2px solid;
   flex-wrap: wrap;
+  max-width: 12rem;
 }
 
 .fish__name {
@@ -21,7 +22,7 @@
 }
 
 .fish__image {
-  max-width: 10rem;
+  max-width: 12rem;
   height: auto;
 }
 
