@@ -1,21 +1,4 @@
-/* .tips {
-  background-color: yellow;
-  margin: 2rem;
-  padding: 1rem;
-} */
-
 .tips {
   display: flex;
   flex-direction: column;
-}
-
-/* .tips > h3 {
-  color: yellow;
-  background-color: teal;
-  padding: 0.5rem;
-  text-align: center;
-} */
-
-.tips__list {
-  font-style: italic;
 }
