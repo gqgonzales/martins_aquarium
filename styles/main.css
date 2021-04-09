@@ -9,10 +9,6 @@ body {
   margin: 0;
 }
 
-/* body > h3 {
-  color: yellow;
-} */
-
 .container {
   display: flex;
 }
@@ -35,8 +31,10 @@ body {
   color: yellow;
   background-color: teal;
   padding: 0.5rem;
-  max-width: fit-content;
-  justify-content: center;
+  margin: 1rem 0.25rem .25rem .25rem;
+  width: 16rem;
+  align-self: center;
+
 }
 
 .tips {

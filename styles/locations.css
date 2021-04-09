@@ -1,7 +1,8 @@
 .locations {
-  border: yellow 2px dashed;
-  margin: 1rem;
+  /* border: yellow 2px dashed; */
+
   padding: 1rem;
+  margin: .25rem 1rem 2rem 1rem;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;

@@ -1,14 +1,6 @@
 .quotes {
-    border: blue 2px dotted;
+    /* border: blue 2px dotted; */
     padding: 1rem;
-    margin: 1rem;
+    margin: .25rem 1rem 2rem 1rem;
     background-color: yellow;
 }
-
-
-/* .quotes > h3 {
-    text-align: center;
-    color: yellow;
-    background-color: teal;
-    padding: 0.5rem;
-} */

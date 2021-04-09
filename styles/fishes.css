@@ -2,14 +2,14 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  border: tomato 2px solid;
+  /* border: tomato 2px solid; */
   padding: 1rem;
-  margin: 1rem;
+  margin: .25rem 1rem 2rem 1rem;
 }
 
 .fish {
   margin: 1rem;
-  border: purple 2px solid;
+  /* border: purple 2px solid; */
   flex-wrap: wrap;
   max-width: 12rem;
 }
