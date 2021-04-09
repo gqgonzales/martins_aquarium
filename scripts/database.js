@@ -1,9 +1,11 @@
 const database = {
     fish: [
         {
-            name: "Bart",
-            food: "crustaceans",
-            size: 3
+            name: "Dollywood",
+            species: "Dolly Varden",
+            length: 77.62,
+            location: "Chile",
+            food: "pink flakes",
         }
     ]
 }
