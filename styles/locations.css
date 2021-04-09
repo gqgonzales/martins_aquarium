@@ -2,10 +2,18 @@
   border: yellow 2px dashed;
   margin: 1rem;
   padding: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
 }
 
-.locations > h3 {
+/* .locations > h3 {
   color: yellow;
   background-color: teal;
   padding: 0.5rem;
+} */
+
+.location__image {
+  max-width: 10rem;
+  height: auto;
 }

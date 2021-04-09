@@ -9,26 +9,39 @@ body {
   margin: 0;
 }
 
-body > h3 {
+/* body > h3 {
   color: yellow;
+} */
+
+.container {
+  display: flex;
 }
 
 .header {
-    text-align: center;
-    color: yellow;
-    background-color: teal;
-    padding: 0.5rem;
+  text-align: center;
+  color: yellow;
+  background-color: teal;
+  padding: 0.5rem;
 }
 
 .flex-container-left {
+  flex: 3;
   display: flex;
   flex-direction: column;
-  flex: 3;
+}
+
+h3 {
+  text-align: center;
+  color: yellow;
+  background-color: teal;
+  padding: 0.5rem;
+  max-width: fit-content;
+  align-items: center;
 }
 
 .tips {
-  display: flex;
   flex: 1;
+  display: flex;
   background-color: yellow;
   margin: 1rem;
   padding: 1rem;
