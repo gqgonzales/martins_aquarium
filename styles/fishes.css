@@ -17,6 +17,7 @@
 .fish__name {
   text-align: center;
   color: yellow;
+  font-style: italic;
   background-color: teal;
   padding: 0.5rem;
 }

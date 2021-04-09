@@ -25,3 +25,11 @@
   max-width: 12rem;
   height: auto;
 }
+
+.location__name {
+  text-align: center;
+  color: yellow;
+  font-style: italic;
+  background-color: teal;
+  padding: 0.5rem;
+}
