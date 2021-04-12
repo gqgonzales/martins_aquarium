@@ -12,3 +12,4 @@ const database = {
 
 // New comment
 // Another comment for the sake of learning pull requests
+// Here's a third comment. Wonder what happens on line 16?
