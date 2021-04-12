@@ -11,3 +11,4 @@ const database = {
 }
 
 // New comment
+// Another comment for the sake of learning pull requests
